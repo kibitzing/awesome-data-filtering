@@ -1,2 +1,2 @@
-# awesome-data-filtering
-A repository of data filtering methods
+# awesome-llm-data
+A repository of information about data used in training large language models (LLMs)
