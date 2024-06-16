@@ -1,6 +1,10 @@
 # awesome-llm-data
 A repository of information about data used in training large language models (LLMs)
 
+## Models
+### LLaMa 2
+* (WIP) [Data used in LLaMa 2](https://github.com/kibitzing/awesome-llm-data/issues/1)
+
 
 ## Evaluation dataset
 ### **Bias**:
