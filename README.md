@@ -4,7 +4,7 @@ A repository of information about data used in training large language models (L
 
 ## Evaluation dataset
 ### **Bias**:
-*  [Bold](https://arxiv.org/pdf/2101.11718)
+* [Bold](https://arxiv.org/pdf/2101.11718)
   * Used by Llama 2
  
 ### **Truthfulness**: 
