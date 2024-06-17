@@ -18,3 +18,11 @@ A repository of information about data used in training large language models (L
 ### **Toxicity**:
 * [ToxiGen](https://arxiv.org/pdf/2203.09509)
   * Used by Llama 2
+
+### Model performance evaluation
+* Code
+* Commonsense reasoning
+* World knowledge
+* Reading comprehension
+* Math
+* Popular aggregated benchmarks
