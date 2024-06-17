@@ -19,7 +19,7 @@ A repository of information about data used in training large language models (L
 * [ToxiGen](https://arxiv.org/pdf/2203.09509)
   * Used by: Llama 2
 
-## Model performance evaluation dataset
+## Pre-trained Model performance evaluation dataset
 
 ### Code
 * [HumanEval](https://arxiv.org/pdf/2107.03374)
