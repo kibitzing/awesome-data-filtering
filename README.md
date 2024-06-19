@@ -5,6 +5,7 @@ A repository of information about data used in training large language models (L
 ### LLaMa 2
 * [Pre-training Data used in LLaMa 2](https://github.com/kibitzing/awesome-llm-data/issues/1)
 
+### GPT
 
 ## Safety evaluation dataset
 ### **Bias**:
