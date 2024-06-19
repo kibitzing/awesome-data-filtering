@@ -67,3 +67,6 @@ A repository of information about data used in training large language models (L
   * Used by: Llama 2
 * [AGI Eval](https://arxiv.org/pdf/2304.06364)
   * Used by: Llama 2
+ 
+## Other repositories
+* https://github.com/opendilab/awesome-RLHF
